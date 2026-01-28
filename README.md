@@ -4,6 +4,13 @@
 The Bee Map app is a web and mobile application.
 To report useful information about beekeeping
 
+## Features TODO
+
+- Light/dark mode toggle
+- Live previews on the map
+- Fullscreen mode
+- Cross platform (Web and Android)
+
 
 ## FAQ English
 
@@ -26,6 +33,16 @@ Announcements will be published for the testing phases.
 
 English and French initially.
 
+#### Will the source code be available to the public?
+
+The code will not be shared.
+
+--------------------------------
+--------------------------------
+--------------------------------
+--------------------------------
+--------------------------------
+--------------------------------
 
 ## FAQ French
 
@@ -47,3 +64,17 @@ Des annonces seront publiées pour les phases de test.
 #### Dans quelles langues l'application sera-t-elle disponible ?
 
 En anglais et en français dans un premier temps.
+
+#### Le code source sera-t-il accessible au public ?
+
+Le code ne sera pas partagé.
+ 
+
+#### Dans quelles langues l'application sera-t-elle disponible ?
+
+En anglais et en français dans un premier temps.
+
+
+## Authors
+
+- [@OrionC3](https://github.com/OrionC3)
