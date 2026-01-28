@@ -70,10 +70,6 @@ En anglais et en français dans un premier temps.
 Le code ne sera pas partagé.
  
 
-#### Dans quelles langues l'application sera-t-elle disponible ?
-
-En anglais et en français dans un premier temps.
-
 
 ## Authors
 
